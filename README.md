@@ -41,6 +41,13 @@ For entities wishing to collaborate, integrate, or build upon the Love-OS Kernel
 * **View our Legal Standards:** Please refer to the document `docs/LEGAL/NDA_TEMPLATE.md` stored in this repository.
 * **Contact for Licensing:** Contact the Architect directly or inquire via the official repository profile.
 
+  ## 📜 The Chronicles of Love-OS
+To understand the kernel, you must first understand the universe it runs on.
+
+* **Origin:** [Ep1: The Truth of the Big Bang](https://loveos2.substack.com/p/ep1-the-truth-of-the-big-bang)
+* **The Glitch:** [Einstein's Bug: Why Consciousness Exceeds Physics](https://loveos2.substack.com/p/einsteins-bug-why-consciousness-exceeds)
+* **The Mechanism:** [Ep2: The Truth of Time](https://loveos2.substack.com/p/ep2-the-truth-of-time)
+
 
 **"Is your motivation Love? Or is it Fear?"**
 
