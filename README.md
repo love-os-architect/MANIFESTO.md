@@ -31,6 +31,17 @@ We do not persuade. We wait for resonance.
 This protocol is open to all developers, thinkers, and enterprises.
 However, there is only one password required to connect:
 
+---
+## 🏛 Business Partnership & Legal Framework
+
+While the core philosophy of Love-OS is open to the universe, the implementation and specific architectural kernels for commercial use are protected assets.
+
+For entities wishing to collaborate, integrate, or build upon the Love-OS Kernel in a commercial capacity, we operate under a strict confidentiality framework to protect the integrity of the Source (L0).
+
+* **View our Legal Standards:** Please refer to the document `docs/LEGAL/NDA_TEMPLATE.md` stored in this repository.
+* **Contact for Licensing:** Contact the Architect directly or inquire via the official repository profile.
+
+
 **"Is your motivation Love? Or is it Fear?"**
 
 ---
